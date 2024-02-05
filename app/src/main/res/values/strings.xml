@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wi-Fi P2P</string>
+
+    <string name="str_wifi_direct">Wi-Fi Direct</string>
+    <string name="str_wifi_set">Wi-Fi Set</string>
+    <string name="str_wifi_on">Wi-Fi On</string>
+    <string name="str_wifi_off">Wi-Fi Off</string>
+    <string name="str_discover">Discover</string>
+    <string name="str_discovery_start">Discovery Started</string>
+    <string name="str_discovery_fail">Discovery Failed</string>
+    <string name="str_connect_status">Connection Status</string>
+    <string name="str_connect_to">Connected to </string>
+    <string name="str_connect_not">Not Connected</string>
+    <string name="str_disconnect">Device disconnect</string>
+    <string name="str_host">Host</string>
+    <string name="str_client">Client</string>
+    <string name="str_message">Message</string>
+    <string name="str_send">Send</string>
+</resources>
